@@ -87,5 +87,13 @@
         <img src="imagenes/qr.png" alt="imagenes/DSCF7241.jpg">
     </div>
 
+    <div>
+        <table>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+        </table>
+    </div>
+
 </body>
 </html>
